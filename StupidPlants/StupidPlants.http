@@ -1,0 +1,6 @@
+@StupidPlants_HostAddress = http://localhost:5065
+
+GET {{StupidPlants_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
